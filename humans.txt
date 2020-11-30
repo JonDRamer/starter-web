@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Jon -- <role> -- <twitter>
+    Jon -- dev -- <twitter>
 
 # THANKS
 
